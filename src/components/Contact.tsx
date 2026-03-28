@@ -10,8 +10,8 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:zalariyabhrgav@gmail.com" data-cursor="disable">
-                zalariyabhrgav@gmail.com
+              <a href="mailto:zalariyabhargav@gmail.com" data-cursor="disable">
+                zalariyabhargav@gmail.com
               </a>
             </p>
             <h4>Phone</h4>
